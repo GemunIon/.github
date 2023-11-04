@@ -1,3 +1,6 @@
+
+![_logo_1600](https://github.com/GemunIon/.github/assets/185285/e870e06f-3db2-4ad0-9c2d-f616fb1d3701)
+
 We are the Gemuinion a seasoned team of blockchain game developers, with over 20 years of expertise. We boast of hundreds of projects behind us, and, with this experience in the blockchain industry, we rolled out our all-in-one solution — an advanced framework for building decentralized games
 
 The Gemuinion framework is a salvation for businesses with product development issues. We developed a boxed solution that combines the most used mechanics: stacking, airdrop, craft, vesting, loot-boxing, and collectible traits.

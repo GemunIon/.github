@@ -1,5 +1,4 @@
-
-![photo_2023-11-09 17 16 17](https://github.com/GemunIon/.github/assets/185285/36f7e32e-c12c-430c-a3b2-2aa1ef98cdd6)
+![photo_2023-11-09 17 39 29](https://github.com/GemunIon/.github/assets/185285/4add33bd-491e-4ccb-aebb-6cf4c349bde9)
 
 
 We are the Gemuinion a seasoned team of blockchain game developers, with over 20 years of expertise. We boast of hundreds of projects behind us, and, with this experience in the blockchain industry, we rolled out our all-in-one solution — an advanced framework for building decentralized games that allows to launch of RPG or P2E games in a matter of hours. In a nutshell, it is a low-code, fully functional, fully on-chain white-label game with strong community governance. Out-of-the-box system offers 20+ common blockchain mechanics:

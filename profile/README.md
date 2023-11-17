@@ -1,26 +1,14 @@
 ![photo_2023-11-09 21 39 56](https://github.com/GemunIon/.github/assets/185285/63f51ee5-a75e-421d-8cdd-e6aa17e85137)
 
+We are Gemuinion a seasoned team of blockchain game developers, with over 20 years of expertise. We are experts in GemeFi but also have good experience in DeFi and EdTech.
 
-We are the Gemuinion a seasoned team of blockchain game developers, with over 20 years of expertise. We boast of hundreds of projects behind us, and, with this experience in the blockchain industry, we rolled out our all-in-one solution — an advanced framework for building decentralized games that allows to launch of RPG or P2E games in a matter of hours. In a nutshell, it is a low-code, fully functional, fully on-chain white-label game with strong community governance. Out-of-the-box system offers 20+ common blockchain mechanics:
+We are pleased to extend our services to you
+- Design and development of architecture of complex projects
+- Development of smart contracts of any difficulty
+- Development of web-based applications - CRM, ERP, LMS, etc
+- Development of desktop and mobile games and applications
+- Development of metaverses using Roblox, Decentalend, Spatial, and other engines
+- Deployment of private nodes including private blockchains for EVM and COSMOS
+- Unit and automated E2E testing
 
-- Claim
-- Airdrop
-- Craft
-- Staking
-- Vesting
-- Leveling
-- Raffle
-- Lottery
-- Mystery Boxes
-- … etc
-
-Applied to 5 types of tokens
-- Native (ETH/BNB)
-- ERC20 (COINS)
-- ERC721 (NFT)
-- ERC998 (Composables)
-- ERC1155 (Semi fungible)
-
-All this can be managed by both non-technical persons from UI and automatically from the game server.
-
-The system boasts a modular architecture, allowing us to assemble it custom-tailored to the specific needs of each client. On your request, we will also develop custom functionality and do all DevOps work including node deployment.
+Here you can find our open-source projects, free lessons, and code snippets, please feel free to explore, use, and patch our code

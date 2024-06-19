@@ -1,6 +1,6 @@
 ![photo_2023-11-09 21 39 56](https://github.com/GemunIon/.github/assets/185285/63f51ee5-a75e-421d-8cdd-e6aa17e85137)
 
-We are Gemuinion a seasoned team of blockchain game developers, with over 20 years of expertise. We are experts in GemeFi but also have good experience in DeFi and EdTech.
+We are Gemuinion a seasoned team of blockchain developers, with over 20 years of expertise. We are experts in GemeFi and have good experience in DeFi and EdTech.
 
 We are pleased to extend our services to you
 - Design and development of architecture of complex projects
